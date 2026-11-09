@@ -1,0 +1,8 @@
+[package]
+name = "mindful-messages-from-the-moths"
+version = "0.1.0"
+edition = "2021"
+description = "A tiny Rust command-line programme delivering unexpected messages of kindness, one moth at a time."
+license = "MIT"
+
+[dependencies]
